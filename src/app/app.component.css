@@ -1,0 +1,18 @@
+/* app.component.css */
+
+/* General styles */
+body {
+    background-color: #000000; /* Black background */
+    color: #ffffff;            /* White text */
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+    color: #ffffff;            /* White text for heading */
+  }
+  
+  /* Add additional styles for other elements as needed */
+  
